@@ -1,0 +1,5 @@
+rootfs/
+run/
+*.o
+minictl
+*.d
